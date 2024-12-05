@@ -1,1 +1,0 @@
-"D:\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UnrealPak.exe" "D:\\SteamLibrary\\steamapps\\common\\The Matchless KungFu\\soft\\HMS_00-WindowsNoEditor_Rus.pak" -Create="D:\\SteamLibrary\\steamapps\\common\\The Matchless KungFu\\soft\\config.txt" -compress
